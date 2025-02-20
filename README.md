@@ -53,9 +53,9 @@ Credit : https://aqicn.org/data-platform/register/
 
 •	ค่า PM2.5 ที่เกิน 150 มีอยู่ทั้มหมด 119 วัน ซึ่งเป็นช่วง ต้นปีและปลายปี
 
-กราฟ: PM2.5 Calendar Heatmap (2015 - 2025)
+กราฟ: PM2.5 Calendar Heatmap (2016 - 2025)
 
-![image](https://github.com/user-attachments/assets/e7e315b4-2042-40e7-a953-b01bda5bf826)
+![image](https://github.com/user-attachments/assets/c0b81696-caba-4d7f-b942-cb0eb72acf9c)
 
 •	ภาพรวมรายปี: Calendar Heatmap ช่วยให้เห็นภาพรวมของค่า PM2.5 เฉลี่ยในแต่ละวันของปี โดยใช้โทนสีเพื่อแสดงระดับความรุนแรงของมลพิษ
 
