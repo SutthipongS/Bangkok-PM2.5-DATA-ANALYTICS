@@ -26,8 +26,7 @@ Credit : https://aqicn.org/data-platform/register/
 
 กราฟ: Trends of PM2.5 and PM10 over Time in Bangkok
 
-![image](https://github.com/user-attachments/assets/bee8a4d8-35b5-4905-927b-8e129eb0be58)
-
+![image](https://github.com/user-attachments/assets/beda8325-0aa9-41b9-b3f6-fb8dcff7f187)
 
 •	แนวโน้มเพิ่มขึ้น-ลดลงตามฤดูกาล: ค่ามลพิษมีความผันผวนตามช่วงเวลา มีบางช่วงที่พุ่งสูงขึ้นชัดเจน 
 
@@ -37,25 +36,25 @@ Credit : https://aqicn.org/data-platform/register/
 
 กราฟ: Daily Average PM2.5 Levels
 
-![image](https://github.com/user-attachments/assets/40538046-f0fa-4ca2-856a-956f840c336d)
+![image](https://github.com/user-attachments/assets/b7dd5ab0-1986-4d3a-b66b-46676380eaf8)
 
-•	ค่าระดับ PM2.5 รายวัน
+•	ค่าระดับ PM2.5 รายวันทั้งหมด 4062 วัน
 
 กราฟ: High-Risk Days with PM2.5 > 100
 
-![image](https://github.com/user-attachments/assets/2a12f9c3-1901-4b1b-9eb7-4fe2834d0c56)
+![image](https://github.com/user-attachments/assets/17493791-b8e4-471d-bc6c-69e6a867ec19)
 
-•	ค่า PM2.5 ที่เกิน 100 มีอยู่ทั้งหมด 750 วัน ซึ่งเป็นช่วงต้นปีและปลายปีส่วนใหญ่
+•	ค่า PM2.5 ที่เกิน 100 มีอยู่ทั้งหมด 756 วัน ซึ่งเป็นช่วงต้นปีและปลายปีส่วนใหญ่
 
 กราฟ: High-Risk Days with PM2.5 > 150
 
-![image](https://github.com/user-attachments/assets/d67de33b-44bd-47f0-a7e3-d673f577a077)
+![image](https://github.com/user-attachments/assets/bc1c3916-f2d2-40b6-8ec1-a182f6cfa600)
 
-•	ค่า PM2.5 ที่เกิน 150 มีอยู่ทั้มหมด 119 วัน ซึ่งเป็นช่วง ต้นปีและปลายปี
+•	ค่า PM2.5 ที่เกิน 150 มีอยู่ทั้มหมด 121 วัน ซึ่งเป็นช่วง ต้นปีและปลายปี
 
 กราฟ: PM2.5 Calendar Heatmap (2016 - 2025)
 
-![image](https://github.com/user-attachments/assets/c0b81696-caba-4d7f-b942-cb0eb72acf9c)
+![image](https://github.com/user-attachments/assets/dbd04ce6-8886-45b6-b3b2-ecd6738c98e9)
 
 •	ภาพรวมรายปี: Calendar Heatmap ช่วยให้เห็นภาพรวมของค่า PM2.5 เฉลี่ยในแต่ละวันของปี โดยใช้โทนสีเพื่อแสดงระดับความรุนแรงของมลพิษ
 
@@ -67,13 +66,13 @@ Credit : https://aqicn.org/data-platform/register/
 
 กราฟ: Correlation Matrix of Pollutants
 
-![image](https://github.com/user-attachments/assets/1ed24d44-1056-4b18-a6d3-c09a3dff3b94)
+![image](https://github.com/user-attachments/assets/81b58a9b-53d2-4ad7-8fe5-eb191982d8f9)
 
-•	PM2.5 กับ PM10 มีความสัมพันธ์ระดับปานกลาง (0.54): หมายความว่า PM2.5 มักจะเพิ่มขึ้นพร้อมกับ PM10 แต่ไม่ได้สัมพันธ์กัน 100% ซึ่งอาจเกิดจากแหล่งกำเนิดมลพิษที่คล้ายกัน เช่น การเผาไหม้ การจราจร และฝุ่นละออง
+•	PM2.5 กับ PM10 มีความสัมพันธ์ระดับปานกลาง (0.55): หมายความว่า PM2.5 มักจะเพิ่มขึ้นพร้อมกับ PM10 แต่ไม่ได้สัมพันธ์กัน 100% ซึ่งอาจเกิดจากแหล่งกำเนิดมลพิษที่คล้ายกัน เช่น การเผาไหม้ การจราจร และฝุ่นละออง
 
 •	PM2.5 กับ O3 (โอโซน) ก็มีความสัมพันธ์ปานกลาง (0.51): อาจเกิดจากกระบวนการทางเคมีในอากาศที่ทำให้ทั้งสองเพิ่มขึ้นพร้อมกัน
 
-• PM2.5 กับ NO2 (ไนโตรเจนไดออกไซด์) มีความสัมพันธ์ระดับเล็กน้อย (0.43): แสดงว่า NO2 อาจมีผลต่อ PM2.5 แต่ไม่ชัดเจนมาก
+• PM2.5 กับ NO2 (ไนโตรเจนไดออกไซด์) มีความสัมพันธ์ระดับเล็กน้อย (0.42): แสดงว่า NO2 อาจมีผลต่อ PM2.5 แต่ไม่ชัดเจนมาก
 
 • PM2.5 กับ CO (คาร์บอนมอนอกไซด์) มีความสัมพันธ์ต่ำ (0.23): อาจเกิดจากแหล่งกำเนิดที่ต่างกัน เช่น CO มาจากการเผาไหม้ของเครื่องยนต์มากกว่า
 
@@ -81,7 +80,7 @@ Credit : https://aqicn.org/data-platform/register/
 
 กราฟ: Statistical Analysis
 
-![image](https://github.com/user-attachments/assets/01eecfd4-249f-4545-8e56-88054b41ff2f)
+![image](https://github.com/user-attachments/assets/b2e7de65-d754-408d-b212-79e395af5355)
 
 • PM10 มีค่าต่ำสุด-สูงสุดห่างกันมากที่สุด – แสดงว่ามีช่วงที่ PM10 สูงผิดปกติ (เช่น ช่วงที่เกิดมลพิษหนัก)
 
@@ -95,25 +94,23 @@ Credit : https://aqicn.org/data-platform/register/
 
 กราฟ: Average Concentration of Pollutants
 
-![image](https://github.com/user-attachments/assets/969ee880-86d2-4a37-93e4-b2f6cbc9b266)
+![image](https://github.com/user-attachments/assets/95a6228f-22dc-4cf6-b6c2-d9dbb4e7e939)
 
-•	ค่า PM2.5 มีค่าเฉลี่ยอยู่ที่ 80 ซึ่งถือว่าเป็นค่าที่เริ่มมีผลต่อสุขภาพ โดยเฉพาะผู้เป็นโรคทางเดินหายใจ
+•	ค่า PM2.5 มีค่าเฉลี่ยอยู่ที่ 82.22 ซึ่งถือว่าเป็นค่าที่เริ่มมีผลต่อสุขภาพ โดยเฉพาะผู้เป็นโรคทางเดินหายใจ
 
 การคาดการณ์ (Prediction)
 
 กราฟ: PM2.5 Prediction using Linear Regression
 
-![image](https://github.com/user-attachments/assets/f1e1c39c-87a8-45f1-9e08-1a3e0f83b385)
+![image](https://github.com/user-attachments/assets/89c73b33-7b74-4635-86f4-e171f2a73e9d)
 
 กราฟ: PM2.5 Prediction using Linear Regression (per month)
 
-![image](https://github.com/user-attachments/assets/9de54770-3a4b-4a72-8cf9-5bb22fb85e76)
-
+![image](https://github.com/user-attachments/assets/647b7820-96d4-4159-863b-b4983c1bb2b5)
 
 กราฟ: PM2.5 Prediction using Linear Regression (Y2020 - Y2024)
 
-![image](https://github.com/user-attachments/assets/2d50b0d1-7915-4b09-9859-551d89b81eef)
-
+![image](https://github.com/user-attachments/assets/c4f748cd-f403-4429-a077-1c80f5060c44)
 
 •	ทำนายแนวโน้ม: โมเดล Linear Regression สามารถทำนายแนวโน้มของ PM2.5 ได้ในระดับหนึ่ง โดยใช้ค่า PM2.5 ในวันก่อนหน้า (Lagged Feature) เป็นตัวแปรทำนาย
 
