@@ -36,9 +36,9 @@ Credit : https://aqicn.org/data-platform/register/
 
 กราฟ: Daily Average PM2.5 Levels
 
-![image](https://github.com/user-attachments/assets/b7dd5ab0-1986-4d3a-b66b-46676380eaf8)
+![image](https://github.com/user-attachments/assets/ddc0ab30-9eab-4e1d-85ec-9aa719cb9eb3)
 
-•	ค่าระดับ PM2.5 รายวันทั้งหมด 4062 วัน
+•	ค่าระดับ PM2.5 รายวันทั้งหมด 3117 วัน
 
 กราฟ: High-Risk Days with PM2.5 > 100
 
