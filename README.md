@@ -42,7 +42,7 @@ Credit : https://aqicn.org/data-platform/register/
 
 กราฟ: High-Risk Days with PM2.5 > 100
 
-![image](https://github.com/user-attachments/assets/17493791-b8e4-471d-bc6c-69e6a867ec19)
+![image](https://github.com/user-attachments/assets/8ecce5ed-0db4-4650-bf51-4dff6fee9d17)
 
 •	ค่า PM2.5 ที่เกิน 100 มีอยู่ทั้งหมด 756 วัน ซึ่งเป็นช่วงต้นปีและปลายปีส่วนใหญ่
 
