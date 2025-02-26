@@ -22,7 +22,7 @@
 ![image](https://github.com/user-attachments/assets/b660bd2b-f39b-4c63-9750-0f6037298749)
 Credit : https://aqicn.org/data-platform/register/
 
-แนวโน้มโดยรวม (Trend)
+แนวโน้ม PM 2.5 (Trend)
 
 กราฟ: Daily Average PM2.5 Levels
 
