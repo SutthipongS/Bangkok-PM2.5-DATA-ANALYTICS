@@ -28,7 +28,7 @@ Credit : https://aqicn.org/data-platform/register/
 
 <p align="center"> กราฟ 1: Daily Average PM2.5 Levels</p><br>
 
-![image](https://github.com/user-attachments/assets/d39486c1-75b1-498e-a359-daa8bc4ad61f)
+![image](https://github.com/user-attachments/assets/fbca86a1-48ad-481e-b1cc-c6cc6cfc6629)
 
 <p align="center"> กราฟ 2: Monthly Average PM2.5 Levels</p><br>
 
