@@ -160,6 +160,12 @@ Credit : https://aqicn.org/data-platform/register/
 
 • จุดอ่อนของ Linear Regression โมเดลนี้อาจไม่สามารถจับความผันผวนระยะสั้นหรือเหตุการณ์ที่ไม่เป็นไปตามแนวโน้มปกติได้ดีท เห็นได้ว่าช่วงที่ค่า PM2.5 เพิ่มสูงมากในบางปี (เช่น 2021, 2023) โมเดลคาดการณ์ค่าต่ำกว่าจริงเล็กน้อย
 
+![image](https://github.com/user-attachments/assets/ca78d44f-b073-4045-b446-cbcf312c91c3)
+
+<p align="center">กราฟ 13: PM2.5 Prediction with Monthly Average (Y2020 - Y2024)</p><br>
+
+• เพิ่มกราฟแท่งเพื่อให้เห็นรายเดือน
+
 ## Summary
 1️. แนวโน้มของ PM2.5 
 
