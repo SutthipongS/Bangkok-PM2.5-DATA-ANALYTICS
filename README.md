@@ -28,6 +28,10 @@ Credit : https://aqicn.org/data-platform/register/
 
 <p align="center"> กราฟ 1: Daily Average PM2.5 Levels</p><br>
 
+![image](https://github.com/user-attachments/assets/d39486c1-75b1-498e-a359-daa8bc4ad61f)
+
+<p align="center"> กราฟ 2: Monthly Average PM2.5 Levels</p><br>
+
 •	ค่าระดับ PM2.5 รายวันทั้งหมด 3117 วัน
 
 • มีแนวโน้มเป็น คาบฤดูกาล (Seasonality) โดยค่า PM2.5 จะสูงขึ้นในช่วงปลายปีถึงต้นปีถัดไป (ประมาณ พ.ย. - มี.ค.) และลดลงช่วงกลางปี
@@ -36,7 +40,7 @@ Credit : https://aqicn.org/data-platform/register/
 
 ![image](https://github.com/user-attachments/assets/06d9cdcb-1778-4637-a8bb-e5fcb3a8b43a)
 
-<p align="center"> กราฟ 2: High-Risk Days with PM2.5 > 100</p><br>
+<p align="center"> กราฟ 3: High-Risk Days with PM2.5 > 100</p><br>
 
 •	ค่า PM2.5 ที่เกิน 100 มีอยู่ทั้งหมด 756 วัน 
 
@@ -46,7 +50,7 @@ Credit : https://aqicn.org/data-platform/register/
 
 ![image](https://github.com/user-attachments/assets/6173f907-7265-40be-acec-cee7e2c84638)
 
-<p align="center"> กราฟ 3: High-Risk Days with PM2.5 > 150</p><br>
+<p align="center"> กราฟ 4: High-Risk Days with PM2.5 > 150</p><br>
 
 •	ค่า PM2.5 ที่เกิน 150 มีอยู่ทั้มหมด 121 วัน ซึ่งเป็นช่วง ต้นปีและปลายปี
 
@@ -54,7 +58,7 @@ Credit : https://aqicn.org/data-platform/register/
 
 ![image](https://github.com/user-attachments/assets/dbd04ce6-8886-45b6-b3b2-ecd6738c98e9)
 
-<p align="center">กราฟ 4: PM2.5 Calendar Heatmap (2016 - 2025)</p><br>
+<p align="center">กราฟ 5: PM2.5 Calendar Heatmap (2016 - 2025)</p><br>
 
 •	ภาพรวมรายปี: Calendar Heatmap ช่วยให้เห็นภาพรวมของค่า PM2.5 เฉลี่ยในแต่ละวันของปี โดยใช้โทนสีเพื่อแสดงระดับความรุนแรงของมลพิษ
 
@@ -72,7 +76,7 @@ Credit : https://aqicn.org/data-platform/register/
 
 ![image](https://github.com/user-attachments/assets/81b58a9b-53d2-4ad7-8fe5-eb191982d8f9)
 
-<p align="center">กราฟ 5: Correlation Matrix of Pollutants</p><br>
+<p align="center">กราฟ 6: Correlation Matrix of Pollutants</p><br>
 
 •	PM2.5 กับ PM10 มีความสัมพันธ์ระดับปานกลาง (0.55): หมายความว่า PM2.5 มักจะเพิ่มขึ้นพร้อมกับ PM10 แต่ไม่ได้สัมพันธ์กัน 100% ซึ่งอาจเกิดจากแหล่งกำเนิดมลพิษที่คล้ายกัน เช่น การเผาไหม้ การจราจร และฝุ่นละออง
 
@@ -86,7 +90,7 @@ Credit : https://aqicn.org/data-platform/register/
 
 ![image](https://github.com/user-attachments/assets/d0573374-7da0-4e06-9aca-e4599f989c73)
 
-<p align="center">กราฟ 6: Trends of PM2.5 and PM10 over Time in Bangkok</p><br>
+<p align="center">กราฟ 7: Trends of PM2.5 and PM10 over Time in Bangkok</p><br>
 
 •	แนวโน้มเพิ่มขึ้น-ลดลงตามฤดูกาล: ค่ามลพิษมีความผันผวนตามช่วงเวลา มีบางช่วงที่พุ่งสูงขึ้นชัดเจน 
 
@@ -96,7 +100,7 @@ Credit : https://aqicn.org/data-platform/register/
 
 ![image](https://github.com/user-attachments/assets/b2e7de65-d754-408d-b212-79e395af5355)
 
-<p align="center">กราฟ 7: Statistical Analysis</p><br>
+<p align="center">กราฟ 8: Statistical Analysis</p><br>
 
 • PM10 มีค่าต่ำสุด-สูงสุดห่างกันมากที่สุด – แสดงว่ามีช่วงที่ PM10 สูงผิดปกติ (เช่น ช่วงที่เกิดมลพิษหนัก)
 
@@ -110,7 +114,7 @@ Credit : https://aqicn.org/data-platform/register/
 
 ![image](https://github.com/user-attachments/assets/95a6228f-22dc-4cf6-b6c2-d9dbb4e7e939)
 
-<p align="center">กราฟ 8: Average Concentration of Pollutants</p><br>
+<p align="center">กราฟ 9: Average Concentration of Pollutants</p><br>
 
 •	PM2.5 สูงที่สุด (82.22 µg/m³)  เป็นมลพิษหลักที่ส่งผลต่อคุณภาพอากาศและสุขภาพมีค่ามากกว่า PM10 ถึง 2 เท่า
 
@@ -126,11 +130,9 @@ Credit : https://aqicn.org/data-platform/register/
 
 การคาดการณ์ (Prediction)
 
-กราฟ 9: PM2.5 Prediction using Linear Regression
-
 ![image](https://github.com/user-attachments/assets/89c73b33-7b74-4635-86f4-e171f2a73e9d)
 
-<p align="center">กราฟ 9: PM2.5 Prediction using Linear Regression</p><br>
+<p align="center">กราฟ 10: PM2.5 Prediction using Linear Regression</p><br>
 
 • แนวโน้มของ PM2.5 มีลักษณะเป็นช่วง ๆ มีค่าสูงในช่วงฤดูหนาว-ต้นปี (ม.ค.-มี.ค.) และลดลงช่วงกลางปี มีลักษณะเป็นวัฏจักรซ้ำ ๆ ทุกปี 
 
@@ -138,11 +140,9 @@ Credit : https://aqicn.org/data-platform/register/
 
 • ความผิดพลาดอาจเกิดขึ้นในค่าที่ผันผวนสูง บางจุดที่ค่า PM2.5 สูงมาก (เช่นช่วง peak) โมเดลอาจพยากรณ์ต่ำกว่าค่าจริง อาจเกิดจากข้อจำกัดของ Linear Regression ที่ไม่สามารถจับความไม่เป็นเชิงเส้น (non-linearity) ได้ดี
 
-กราฟ 10: PM2.5 Prediction using Linear Regression (per month)
-
 ![image](https://github.com/user-attachments/assets/b8e6fdea-a35f-46c4-9e96-12db4ffb52c0)
 
-<p align="center">กราฟ 10: PM2.5 Prediction using Linear Regression (per month)</p><br>
+<p align="center">กราฟ 11: PM2.5 Prediction using Linear Regression (per month)</p><br>
 
 • แนวโน้มชัดเจนขึ้นเมื่อใช้ค่าเฉลี่ยรายเดือน ค่า PM2.5 มีแนวโน้มเป็นรูปแบบซ้ำ ๆ ทุกปี มีค่าสูงช่วงต้นปี (ธ.ค.-มี.ค.) และลดลงช่วงกลางปี
 
@@ -152,7 +152,7 @@ Credit : https://aqicn.org/data-platform/register/
 
 ![image](https://github.com/user-attachments/assets/379642da-724d-45c1-b7e8-1beddfa921ed)
 
-<p align="center">กราฟ 11: PM2.5 Prediction using Linear Regression (Y2020 - Y2024)</p><br>
+<p align="center">กราฟ 12: PM2.5 Prediction using Linear Regression (Y2020 - Y2024)</p><br>
 
 • การตัดช่วงปีให้โฟกัสที่ 2020-2024 กราฟนี้แสดงการพยากรณ์ที่ละเอียดขึ้นโดยเน้นช่วง 5 ปีล่าสุด เห็นรูปแบบฤดูกาลของค่า PM2.5 ได้ชัดเจน (เพิ่มขึ้นช่วงปลายปี - ต้นปี และลดลงกลางปี)
 
