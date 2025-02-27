@@ -84,7 +84,7 @@ Credit : https://aqicn.org/data-platform/register/
 
 • PM2.5 กับ SO2 (ซัลเฟอร์ไดออกไซด์) ไม่มีความสัมพันธ์ (-0.13): แสดงว่าการเพิ่มขึ้นของ PM2.5 ไม่ได้สัมพันธ์กับการปล่อย SO2
 
-![image](https://github.com/user-attachments/assets/beda8325-0aa9-41b9-b3f6-fb8dcff7f187)
+![image](https://github.com/user-attachments/assets/d0573374-7da0-4e06-9aca-e4599f989c73)
 
 <p align="center">กราฟ 6: Trends of PM2.5 and PM10 over Time in Bangkok</p><br>
 
