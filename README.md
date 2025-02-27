@@ -28,9 +28,9 @@ Credit : https://aqicn.org/data-platform/register/
 
 <p align="center"> กราฟ 1: Daily Average PM2.5 Levels</p><br>
 
-![image](https://github.com/user-attachments/assets/fbca86a1-48ad-481e-b1cc-c6cc6cfc6629)
+![image](https://github.com/user-attachments/assets/31dba5d5-dfdb-409e-ba6f-969e6330d845)
 
-<p align="center"> กราฟ 2: Monthly Average PM2.5 Levels</p><br>
+<p align="center"> กราฟ 2: Daily and Monthly Average PM2.5 Levels</p><br>
 
 •	ค่าระดับ PM2.5 รายวันทั้งหมด 3117 วัน
 
