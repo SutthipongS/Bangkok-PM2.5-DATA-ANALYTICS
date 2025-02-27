@@ -24,7 +24,7 @@ Credit : https://aqicn.org/data-platform/register/
 
 แนวโน้ม PM 2.5 (Trend)
 
-กราฟ: Daily Average PM2.5 Levels
+กราฟ 1: Daily Average PM2.5 Levels
 
 ![image](https://github.com/user-attachments/assets/ddc0ab30-9eab-4e1d-85ec-9aa719cb9eb3)
 
@@ -34,7 +34,7 @@ Credit : https://aqicn.org/data-platform/register/
 
 • ค่าฝุ่นสูงขึ้นเป็นรอบ ๆ คล้ายกับปรากฏการณ์หมอกควันในช่วงฤดูหนาว
 
-กราฟ: High-Risk Days with PM2.5 > 100
+กราฟ 2: High-Risk Days with PM2.5 > 100
 
 ![image](https://github.com/user-attachments/assets/06d9cdcb-1778-4637-a8bb-e5fcb3a8b43a)
 
@@ -44,7 +44,7 @@ Credit : https://aqicn.org/data-platform/register/
 
 • สังเกตได้ว่าบางช่วงที่มีช่วงเว้นว่าง เกิดจากการที่ค่า PM ในช่วงนั้นไม่เกิน 100 ซึ่งจะเป้นช่วงประมาณ (พ.ค.-ก.ย.)
 
-กราฟ: High-Risk Days with PM2.5 > 150
+กราฟ 3: High-Risk Days with PM2.5 > 150
 
 ![image](https://github.com/user-attachments/assets/6173f907-7265-40be-acec-cee7e2c84638)
 
@@ -52,7 +52,7 @@ Credit : https://aqicn.org/data-platform/register/
 
 •	ยังคงพบแนวโน้มเป็นรอบฤดูกาล เช่นเดียวกับกราฟก่อนหน้า
 
-กราฟ: PM2.5 Calendar Heatmap (2016 - 2025)
+กราฟ 4: PM2.5 Calendar Heatmap (2016 - 2025)
 
 ![image](https://github.com/user-attachments/assets/dbd04ce6-8886-45b6-b3b2-ecd6738c98e9)
 
@@ -70,7 +70,7 @@ Credit : https://aqicn.org/data-platform/register/
 
 ความสัมพันธ์ (Correlation)
 
-กราฟ: Correlation Matrix of Pollutants
+กราฟ 5: Correlation Matrix of Pollutants
 
 ![image](https://github.com/user-attachments/assets/81b58a9b-53d2-4ad7-8fe5-eb191982d8f9)
 
@@ -84,7 +84,7 @@ Credit : https://aqicn.org/data-platform/register/
 
 • PM2.5 กับ SO2 (ซัลเฟอร์ไดออกไซด์) ไม่มีความสัมพันธ์ (-0.13): แสดงว่าการเพิ่มขึ้นของ PM2.5 ไม่ได้สัมพันธ์กับการปล่อย SO2
 
-กราฟ: Trends of PM2.5 and PM10 over Time in Bangkok
+กราฟ 6: Trends of PM2.5 and PM10 over Time in Bangkok
 
 ![image](https://github.com/user-attachments/assets/beda8325-0aa9-41b9-b3f6-fb8dcff7f187)
 
@@ -94,7 +94,7 @@ Credit : https://aqicn.org/data-platform/register/
 
 •	PM2.5 มีค่าสูงกว่า PM10 โดนรวม: ค่าเฉลี่ยของ PM2.5 มีค่าสูงกว่า PM10 อย่างเห็นได้ชัด แต่ PM10 ก็มีแนวโน้มพุ่งขึ้นมาใกล้เคียงกันในบางช่วง
 
-กราฟ: Statistical Analysis
+กราฟ 7: Statistical Analysis
 
 ![image](https://github.com/user-attachments/assets/b2e7de65-d754-408d-b212-79e395af5355)
 
@@ -108,7 +108,7 @@ Credit : https://aqicn.org/data-platform/register/
 
 • SO2 และ CO มีค่าเฉลี่ยต่ำ และมีค่าต่ำสุด-สูงสุดที่ไม่แตกต่างกันมาก – อาจเป็นตัวที่ไม่ส่งผลกระทบต่อคุณภาพอากาศมากเท่าตัวอื่น
 
-กราฟ: Average Concentration of Pollutants
+กราฟ 8: Average Concentration of Pollutants
 
 ![image](https://github.com/user-attachments/assets/95a6228f-22dc-4cf6-b6c2-d9dbb4e7e939)
 
@@ -126,7 +126,7 @@ Credit : https://aqicn.org/data-platform/register/
 
 การคาดการณ์ (Prediction)
 
-กราฟ: PM2.5 Prediction using Linear Regression
+กราฟ 9: PM2.5 Prediction using Linear Regression
 
 ![image](https://github.com/user-attachments/assets/89c73b33-7b74-4635-86f4-e171f2a73e9d)
 
@@ -136,7 +136,7 @@ Credit : https://aqicn.org/data-platform/register/
 
 • ความผิดพลาดอาจเกิดขึ้นในค่าที่ผันผวนสูง บางจุดที่ค่า PM2.5 สูงมาก (เช่นช่วง peak) โมเดลอาจพยากรณ์ต่ำกว่าค่าจริง อาจเกิดจากข้อจำกัดของ Linear Regression ที่ไม่สามารถจับความไม่เป็นเชิงเส้น (non-linearity) ได้ดี
 
-กราฟ: PM2.5 Prediction using Linear Regression (per month)
+กราฟ 10: PM2.5 Prediction using Linear Regression (per month)
 
 ![image](https://github.com/user-attachments/assets/b8e6fdea-a35f-46c4-9e96-12db4ffb52c0)
 
@@ -146,7 +146,7 @@ Credit : https://aqicn.org/data-platform/register/
 
 • ช่วงที่โมเดลอาจมีข้อผิดพลาด ช่วงที่ค่า PM2.5 เพิ่มขึ้นหรือลดลงอย่างรวดเร็ว โมเดลอาจพยากรณ์ได้ช้ากว่าค่าจริง อาจเกิดจากความล่าช้าในโมเดล Linear Regression ที่ไม่สามารถจับความเปลี่ยนแปลงฉับพลันได้ดี
 
-กราฟ: PM2.5 Prediction using Linear Regression (Y2020 - Y2024)
+กราฟ 11: PM2.5 Prediction using Linear Regression (Y2020 - Y2024)
 
 ![image](https://github.com/user-attachments/assets/379642da-724d-45c1-b7e8-1beddfa921ed)
 
