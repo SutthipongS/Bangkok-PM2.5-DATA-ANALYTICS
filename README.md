@@ -20,7 +20,7 @@
 เกณฑ์ระดับฝุ่น PM 2.5 ที่ใช้อ้างอิงในการวิเคราะห์
 
 ![image](https://github.com/user-attachments/assets/b660bd2b-f39b-4c63-9750-0f6037298749)
-Credit : https://aqicn.org/data-platform/register/
+<p align="center"> Credit : https://aqicn.org/data-platform/register/</p><br>
 
 แนวโน้ม PM 2.5 (Trend)
 
