@@ -24,7 +24,7 @@ Credit : https://aqicn.org/data-platform/register/
 
 แนวโน้ม PM 2.5 (Trend)
 
-![image](https://github.com/user-attachments/assets/ddc0ab30-9eab-4e1d-85ec-9aa719cb9eb3)
+![image](https://github.com/user-attachments/assets/6a8fca47-238d-4417-b100-3eb96be078bf)
 
 <p align="center"> กราฟ 1: Daily Average PM2.5 Levels</p><br>
 
@@ -88,7 +88,7 @@ Credit : https://aqicn.org/data-platform/register/
 
 • PM2.5 กับ SO2 (ซัลเฟอร์ไดออกไซด์) ไม่มีความสัมพันธ์ (-0.13): แสดงว่าการเพิ่มขึ้นของ PM2.5 ไม่ได้สัมพันธ์กับการปล่อย SO2
 
-![image](https://github.com/user-attachments/assets/d0573374-7da0-4e06-9aca-e4599f989c73)
+![image](https://github.com/user-attachments/assets/ec635356-2008-48fd-8e2f-8ecbbedb4fad)
 
 <p align="center">กราฟ 7: Trends of PM2.5 and PM10 over Time in Bangkok</p><br>
 
