@@ -24,21 +24,21 @@
 
 แนวโน้ม PM 2.5 (Trend)
 
-![image](https://github.com/user-attachments/assets/db4ecd80-6b6b-4a8f-9387-8641391f30f5)
+![image](https://github.com/user-attachments/assets/0d14e8ac-4b66-44de-b64f-85b835c48dff)
 
 <p align="center"> กราฟ 1: Daily Average PM2.5 Levels</p><br>
+
+•	ค่าระดับ PM2.5 รายวันทั้งหมด 3117 วัน
 
 ![image](https://github.com/user-attachments/assets/40123307-c486-4394-91c3-e957dcbc35d9)
 
 <p align="center"> กราฟ 2: Daily and Monthly Average PM2.5 Levels</p><br>
 
-•	ค่าระดับ PM2.5 รายวันทั้งหมด 3117 วัน
-
 • มีแนวโน้มเป็น คาบฤดูกาล (Seasonality) โดยค่า PM2.5 จะสูงขึ้นในช่วงปลายปีถึงต้นปีถัดไป (ประมาณ พ.ย. - มี.ค.) และลดลงช่วงกลางปี
 
 • ค่าฝุ่นสูงขึ้นเป็นรอบ ๆ คล้ายกับปรากฏการณ์หมอกควันในช่วงฤดูหนาว
 
-![image](https://github.com/user-attachments/assets/ae7b447f-a565-4eb1-9d02-2300e7867258)
+![image](https://github.com/user-attachments/assets/25ab37c0-9512-412d-97dc-d82b2c821f2f)
 
 <p align="center"> กราฟ 3: High-Risk Days with PM2.5 > 100</p><br>
 
@@ -48,7 +48,7 @@
 
 • สังเกตได้ว่าบางช่วงที่มีช่วงเว้นว่าง เกิดจากการที่ค่า PM ในช่วงนั้นไม่เกิน 100 ซึ่งจะเป้นช่วงประมาณ (พ.ค.-ก.ย.)
 
-![image](https://github.com/user-attachments/assets/6a7a5cc6-4b5b-45c7-bfbf-dc32802ab4fb)
+![image](https://github.com/user-attachments/assets/0eef25b9-a0b7-438c-919c-2e0fccc85d3a)
 
 <p align="center"> กราฟ 4: High-Risk Days with PM2.5 > 150</p><br>
 
@@ -112,7 +112,7 @@
 
 • SO2 และ CO มีค่าเฉลี่ยต่ำ และมีค่าต่ำสุด-สูงสุดที่ไม่แตกต่างกันมาก – อาจเป็นตัวที่ไม่ส่งผลกระทบต่อคุณภาพอากาศมากเท่าตัวอื่น
 
-![image](https://github.com/user-attachments/assets/95a6228f-22dc-4cf6-b6c2-d9dbb4e7e939)
+![image](https://github.com/user-attachments/assets/94beed92-d694-494d-be03-dc23471b8771)
 
 <p align="center">กราฟ 9: Average Concentration of Pollutants</p><br>
 
@@ -181,7 +181,7 @@
 
 • Heatmap รายปี แสดงให้เห็นว่า ช่วงปลายปี - ต้นปีเป็นช่วงที่ค่าฝุ่นสูงที่สุด และมักเกิดขึ้นต่อเนื่องกันหลายวัน
 
-• ค่าฝุ่นในวันทำงานและวันหยุดมีความใกล้เคียงกัน อาจแสดงถึงแหล่งกำเนิดมลพิษที่ไม่ได้เกิดจากแค่กิจกรรมของมนุษย์ เช่น โรงงาน หรือยานพาหนะ แต่ยังอาจมาจากสภาพอากาศ 
+• ค่าฝุ่นในปี 2022 มีค่าน้อยกว่าปีอื่นๆ อาจเป็นผลมาจาก Covid-19 
 
 3️. ความสัมพันธ์ระหว่าง PM2.5 กับก๊าซมลพิษ 
 
@@ -214,5 +214,9 @@
 1️. ใช้โมเดลคาดการณ์ PM2.5 เพื่อแจ้งเตือนประชาชนล่วงหน้า
 
 2. ลดแหล่งกำเนิดมลพิษ เช่น คุมเข้มไอเสียจากยานพาหนะ ลดการเผาในที่โล่ง
+
+![image](https://github.com/user-attachments/assets/0a6fa64b-b9a5-4c7a-9142-b7f2d943c994)
+
+<p align="center"> Credit : https://www.thairath.co.th/scoop/infographic/2619583</p><br>
 
 3. ส่งเสริมเมืองสีเขียวและขนส่งสาธารณะ เพื่อช่วยลดปริมาณ PM2.5 ในระยะยาว
