@@ -24,11 +24,11 @@ Credit : https://aqicn.org/data-platform/register/
 
 แนวโน้ม PM 2.5 (Trend)
 
-![image](https://github.com/user-attachments/assets/6a8fca47-238d-4417-b100-3eb96be078bf)
+![image](https://github.com/user-attachments/assets/db4ecd80-6b6b-4a8f-9387-8641391f30f5)
 
 <p align="center"> กราฟ 1: Daily Average PM2.5 Levels</p><br>
 
-![image](https://github.com/user-attachments/assets/31dba5d5-dfdb-409e-ba6f-969e6330d845)
+![image](https://github.com/user-attachments/assets/40123307-c486-4394-91c3-e957dcbc35d9)
 
 <p align="center"> กราฟ 2: Daily and Monthly Average PM2.5 Levels</p><br>
 
@@ -38,7 +38,7 @@ Credit : https://aqicn.org/data-platform/register/
 
 • ค่าฝุ่นสูงขึ้นเป็นรอบ ๆ คล้ายกับปรากฏการณ์หมอกควันในช่วงฤดูหนาว
 
-![image](https://github.com/user-attachments/assets/06d9cdcb-1778-4637-a8bb-e5fcb3a8b43a)
+![image](https://github.com/user-attachments/assets/ae7b447f-a565-4eb1-9d02-2300e7867258)
 
 <p align="center"> กราฟ 3: High-Risk Days with PM2.5 > 100</p><br>
 
@@ -48,7 +48,7 @@ Credit : https://aqicn.org/data-platform/register/
 
 • สังเกตได้ว่าบางช่วงที่มีช่วงเว้นว่าง เกิดจากการที่ค่า PM ในช่วงนั้นไม่เกิน 100 ซึ่งจะเป้นช่วงประมาณ (พ.ค.-ก.ย.)
 
-![image](https://github.com/user-attachments/assets/6173f907-7265-40be-acec-cee7e2c84638)
+![image](https://github.com/user-attachments/assets/6a7a5cc6-4b5b-45c7-bfbf-dc32802ab4fb)
 
 <p align="center"> กราฟ 4: High-Risk Days with PM2.5 > 150</p><br>
 
@@ -88,7 +88,7 @@ Credit : https://aqicn.org/data-platform/register/
 
 • PM2.5 กับ SO2 (ซัลเฟอร์ไดออกไซด์) ไม่มีความสัมพันธ์ (-0.13): แสดงว่าการเพิ่มขึ้นของ PM2.5 ไม่ได้สัมพันธ์กับการปล่อย SO2
 
-![image](https://github.com/user-attachments/assets/ec635356-2008-48fd-8e2f-8ecbbedb4fad)
+![image](https://github.com/user-attachments/assets/f0aff07d-71d5-49db-ab7f-a0af6907dae3)
 
 <p align="center">กราฟ 7: Trends of PM2.5 and PM10 over Time in Bangkok</p><br>
 
@@ -130,7 +130,7 @@ Credit : https://aqicn.org/data-platform/register/
 
 การคาดการณ์ (Prediction)
 
-![image](https://github.com/user-attachments/assets/89c73b33-7b74-4635-86f4-e171f2a73e9d)
+![image](https://github.com/user-attachments/assets/ecb441a1-accd-4dd9-928b-72c5ca45aceb)
 
 <p align="center">กราฟ 10: PM2.5 Prediction using Linear Regression</p><br>
 
@@ -140,7 +140,7 @@ Credit : https://aqicn.org/data-platform/register/
 
 • ความผิดพลาดอาจเกิดขึ้นในค่าที่ผันผวนสูง บางจุดที่ค่า PM2.5 สูงมาก (เช่นช่วง peak) โมเดลอาจพยากรณ์ต่ำกว่าค่าจริง อาจเกิดจากข้อจำกัดของ Linear Regression ที่ไม่สามารถจับความไม่เป็นเชิงเส้น (non-linearity) ได้ดี
 
-![image](https://github.com/user-attachments/assets/b8e6fdea-a35f-46c4-9e96-12db4ffb52c0)
+![image](https://github.com/user-attachments/assets/c1849171-34ee-40a5-81be-ec33d33d96e7)
 
 <p align="center">กราฟ 11: PM2.5 Prediction using Linear Regression (per month)</p><br>
 
@@ -150,7 +150,7 @@ Credit : https://aqicn.org/data-platform/register/
 
 • ช่วงที่โมเดลอาจมีข้อผิดพลาด ช่วงที่ค่า PM2.5 เพิ่มขึ้นหรือลดลงอย่างรวดเร็ว โมเดลอาจพยากรณ์ได้ช้ากว่าค่าจริง อาจเกิดจากความล่าช้าในโมเดล Linear Regression ที่ไม่สามารถจับความเปลี่ยนแปลงฉับพลันได้ดี
 
-![image](https://github.com/user-attachments/assets/379642da-724d-45c1-b7e8-1beddfa921ed)
+![image](https://github.com/user-attachments/assets/d92a006c-7d5d-4ac6-9e5a-10c5a9e351e9)
 
 <p align="center">กราฟ 12: PM2.5 Prediction using Linear Regression (Y2020 - Y2024)</p><br>
 
@@ -160,7 +160,7 @@ Credit : https://aqicn.org/data-platform/register/
 
 • จุดอ่อนของ Linear Regression โมเดลนี้อาจไม่สามารถจับความผันผวนระยะสั้นหรือเหตุการณ์ที่ไม่เป็นไปตามแนวโน้มปกติได้ดีท เห็นได้ว่าช่วงที่ค่า PM2.5 เพิ่มสูงมากในบางปี (เช่น 2021, 2023) โมเดลคาดการณ์ค่าต่ำกว่าจริงเล็กน้อย
 
-![image](https://github.com/user-attachments/assets/ca78d44f-b073-4045-b446-cbcf312c91c3)
+![image](https://github.com/user-attachments/assets/54e2d802-1bdd-402e-adda-912dd21206ab)
 
 <p align="center">กราฟ 13: PM2.5 Prediction with Monthly Average (Y2020 - Y2024)</p><br>
 
